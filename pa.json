@@ -1,0 +1,77 @@
+{
+	"one": {
+		"a": [
+			{
+				"_id": "658b020fa6796bfdce304d45",
+				"date": "2023-12-26T00:00:00.000Z",
+				"smClass": "one",
+				"section": "a",
+				"period": [
+					{
+						"period": "first",
+						"startTime": "2023-12-29T04:00:00.000Z",
+						"endTime": "2023-12-29T04:30:00.000Z",
+						"teacherId": "65828a4e71e472499c74cf71",
+						"subject": "bangla",
+						"_id": "658b020fa6796bfdce304d46"
+					}
+				],
+				"holidayDetails": {
+					"isHoliday": "false",
+					"holidayReason": "this is reson the holiday"
+				},
+				"__v": 0
+			},
+			{
+				"_id": "658b020fa6796bfdce304d45",
+				"date": "2023-12-26T00:00:00.000Z",
+				"smClass": "one",
+				"section": "a",
+				"period": [
+					{
+						"period": "first",
+						"startTime": "2023-12-29T04:00:00.000Z",
+						"endTime": "2023-12-29T04:30:00.000Z",
+						"teacherId": "65828a4e71e472499c74cf71",
+						"subject": "bangla",
+						"_id": "658b020fa6796bfdce304d46"
+					}
+				],
+				"holidayDetails": {
+					"isHoliday": "false",
+					"holidayReason": "this is reson the holiday"
+				},
+				"__v": 0
+			}
+		],
+		"b": [
+			{
+				"_id": "658b020fa6796bfdce304d45",
+				"date": "2023-12-26T00:00:00.000Z",
+				"smClass": "one",
+				"section": "a",
+				"period": [
+					{
+						"period": "first",
+						"startTime": "2023-12-29T04:00:00.000Z",
+						"endTime": "2023-12-29T04:30:00.000Z",
+						"teacherId": "65828a4e71e472499c74cf71",
+						"subject": "bangla",
+						"_id": "658b020fa6796bfdce304d46"
+					}
+				],
+				"holidayDetails": {
+					"isHoliday": "false",
+					"holidayReason": "this is reson the holiday"
+				},
+				"__v": 0
+			}
+		],
+		"c": [{}]
+	},
+	"two": {
+		"a": [{}],
+		"b": [{}],
+		"c": [{}]
+	}
+}
